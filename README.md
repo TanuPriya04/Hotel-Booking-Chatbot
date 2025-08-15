@@ -51,12 +51,13 @@ It helps users book rooms by chatting naturally, asking for location, dates, num
   git clone https://github.com/your-username/hotel-booking-chatbot.git
   cd hotel-booking-chatbot
 
-### 2️⃣ Install dependencies
-```bash
+
+2️⃣ Install dependencies
+
      npm install
 
-### 3️⃣ Create .env file
-```bash
+3️⃣ Create .env file
+
 
 
     EMAIL_USER=yourgmail@gmail.com
