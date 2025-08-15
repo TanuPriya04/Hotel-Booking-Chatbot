@@ -45,10 +45,13 @@ It helps users book rooms by chatting naturally, asking for location, dates, num
 ---
 
 
-<video width="800" controls>
-  <source src="video/chatbot.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <video width="80%" controls>
+    <source src="video/chatbot.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 
 ## ⚙️ Setup Instructions
