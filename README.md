@@ -17,6 +17,12 @@ It helps users book rooms by chatting naturally, asking for location, dates, num
 
 ---
 
+<video width="80%" controls>
+  <source src="https://USERNAME.github.io/REPO/video/chatbot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## 🛠 Tech Stack
 
 **Backend**:
@@ -45,12 +51,7 @@ It helps users book rooms by chatting naturally, asking for location, dates, num
 ---
 
 
-<p align="center">
-  <video width="80%" controls>
-    <source src="video/chatbot.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+
 
 
 
