@@ -44,11 +44,7 @@ It helps users book rooms by chatting naturally, asking for location, dates, num
 
 ---
 
-## 📽 Demo Video
 
-Click the image below to watch the demo:
-
-[![Watch the video](https://img.icons8.com/color/96/000000/play--v1.png)](./WhatsApp%20Video%202025-08-15%20at%2014.53.25_32c8f916.mp4)
 
 
 ## ⚙️ Setup Instructions
