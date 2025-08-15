@@ -1,0 +1,7 @@
+{
+  "rooms": [
+    { "name": "Deluxe Room", "price": 2000 },
+    { "name": "Suite", "price": 3500 },
+    { "name": "Standard Room", "price": 1500 }
+  ]
+}
