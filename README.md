@@ -52,9 +52,11 @@ It helps users book rooms by chatting naturally, asking for location, dates, num
   cd hotel-booking-chatbot
 
 2️⃣ Install dependencies
+```bash
      npm install
 
 3️⃣ Create .env file
+```bash
 
 
     EMAIL_USER=yourgmail@gmail.com
