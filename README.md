@@ -45,6 +45,13 @@ It helps users book rooms by chatting naturally, asking for location, dates, num
 ---
 
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/1L_f1ZCN-GIo0QqXl1Xu8CCbjeBGPRY-D/view?usp=sharing)
+
+*(Click the image to watch on Google Drive)*
+
+---
 
 
 ## ⚙️ Setup Instructions
